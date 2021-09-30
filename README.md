@@ -1,6 +1,6 @@
 # codedamn - Disney clone
 
-![Design for the project](./assets/desktop-design-non-fs.jpg)
+![Design for the project](./assets/home-desktop-design.jpg)
 
 ## Hello developer!
 
