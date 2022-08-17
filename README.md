@@ -1,6 +1,6 @@
 # codedamn - Disney clone
 
-![Design for the project](https://raw.githubusercontent.com/codedamn-projects/disney-clone/main/assets/home-desktop-design.jpg)
+![preview image](https://raw.githubusercontent.com/codedamn-projects/disney-clone/main/designs/Preview%20Image.jpg)
 
 ## Hello developer!
 
